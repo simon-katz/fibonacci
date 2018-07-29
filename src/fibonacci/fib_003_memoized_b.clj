@@ -11,4 +11,7 @@
 
 (comment
   (fib 6)
-  (fib 6))
+  (fib 6)
+  (fib 16)
+  (fib 100) ; integer overflow
+  )
