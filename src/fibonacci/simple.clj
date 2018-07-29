@@ -10,4 +10,7 @@
 
 (comment
   (fib 6)
-  (fib 6))
+  (fib 6)
+  (fib 16) ; takes a few seconds
+  ;; (fib 100) ; don't even try this
+  )
