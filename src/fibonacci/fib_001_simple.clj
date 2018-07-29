@@ -1,4 +1,4 @@
-(ns fibonacci.simple)
+(ns fibonacci.fib-001-simple)
 
 (defn fib [n]
   (println "calculating fib" n) (flush)

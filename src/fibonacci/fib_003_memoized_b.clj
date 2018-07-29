@@ -1,4 +1,4 @@
-(ns fibonacci.memoized-002)
+(ns fibonacci.fib-003-memoized-b)
 
 (def fib
   (memoize (fn [n]

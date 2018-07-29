@@ -1,4 +1,4 @@
-(ns fibonacci.memoized-001)
+(ns fibonacci.fib-002-memoized-a)
 
 (declare fib)
 
